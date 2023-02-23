@@ -44,3 +44,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+https://github.com/vladilenm/angular-organizer/blob/master/src/app/shared/date.service.ts
+https://www.youtube.com/watch?v=NaZwVUHnmfE&list=RDCMUCg8ss4xW9jASrqWGP30jXiw&start_radio=1&rv=NaZwVUHnmfE&t=3485
